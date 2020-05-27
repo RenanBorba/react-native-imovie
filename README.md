@@ -49,3 +49,21 @@ Aplicação Front-end Mobile desenvolvida em React Native para a principal inter
 
 <br><br><br>
 
+<div align="center">
+
+![Meu-Vdeo0000](https://user-images.githubusercontent.com/48495838/83076347-bc474480-a04b-11ea-938d-dae7dd80b7f5.gif)
+
+<br>
+
+![00](https://user-images.githubusercontent.com/48495838/83075792-cd438600-a04a-11ea-9371-f863a80696c5.png)
+
+<br>
+
+![01](https://user-images.githubusercontent.com/48495838/83075779-c6b50e80-a04a-11ea-8843-34210b68cfc5.png)
+
+</div>
+
+<br><br>
+<br>
+
+Renan Borba.
