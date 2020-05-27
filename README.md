@@ -51,7 +51,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para a principal inter
 
 <div align="center">
 
-![Meu-Vdeo0000](https://user-images.githubusercontent.com/48495838/83076347-bc474480-a04b-11ea-938d-dae7dd80b7f5.gif)
+![Meu-Vdeo](https://user-images.githubusercontent.com/48495838/83076709-6a52ee80-a04c-11ea-9c9e-54cb9b0122d6.gif)
 
 <br>
 
