@@ -76,10 +76,11 @@ export default styles = StyleSheet.create({
 
   carouselTitle: {
     padding: 15,
-    color: '#FFF',
+    color: '#FAFAFA',
     position: 'absolute',
     bottom: -35,
     left: 2,
+    fontSize: 13,
     fontWeight: 'bold'
   },
 
@@ -101,7 +102,7 @@ export default styles = StyleSheet.create({
   },
 
   movieTitle: {
-    paddingLeft: 15,
+    paddingLeft: 23,
     fontSize: 25,
     fontWeight: 'bold',
     color: '#000',
@@ -109,8 +110,16 @@ export default styles = StyleSheet.create({
   },
 
   movieText: {
-    paddingLeft: 15,
+    paddingLeft: 23,
     color: '#131313',
     fontSize: 15
+  },
+
+  movieRelease: {
+    paddingLeft: 23,
+    marginTop: 5,
+    color: '#000',
+    fontSize: 17,
+    fontWeight: 'bold',
   }
 });

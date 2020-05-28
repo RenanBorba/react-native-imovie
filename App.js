@@ -184,6 +184,9 @@ export default function App() {
                 <Text style={styles.movieText}>
                   { listing[activeIndex].text }
                 </Text>
+                <Text style={styles.movieRelease}>
+                  { listing[activeIndex].release }
+                </Text>
               </View>
 
               <TouchableOpacity>
@@ -192,8 +195,8 @@ export default function App() {
                   color="#141414"
                   size={30}
                   style={{
-                    marginRight: 14,
-                    marginTop: 10
+                    marginRight: 20,
+                    marginTop: 7
                   }}
                 />
               </TouchableOpacity>
