@@ -14,7 +14,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para a principal interface do aplicativo eMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Disney+ e Telecine Play.
+Aplicação Front-end Mobile desenvolvida em React Native para a principal interface do aplicativo eMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
 
 <br><br>
 
@@ -51,15 +51,19 @@ Aplicação Front-end Mobile desenvolvida em React Native para a principal inter
 
 <div align="center">
 
-![Meu-Vdeo001](https://user-images.githubusercontent.com/48495838/83077532-fa456800-a04d-11ea-85ec-bba1939e01fb.gif)
+![Meu-Vdeo01](https://user-images.githubusercontent.com/48495838/83176943-aa6dac00-a0f4-11ea-8d8b-019350cdc1b8.gif)
 
 <br><br>
 
-![00](https://user-images.githubusercontent.com/48495838/83075792-cd438600-a04a-11ea-9371-f863a80696c5.png)
+![00](https://user-images.githubusercontent.com/48495838/83177048-ce30f200-a0f4-11ea-9de4-d498f64bcaa1.png)
 
 <br>
 
-![01](https://user-images.githubusercontent.com/48495838/83075779-c6b50e80-a04a-11ea-8843-34210b68cfc5.png)
+![01](https://user-images.githubusercontent.com/48495838/83177043-cd985b80-a0f4-11ea-9b80-951e06bfe75e.png)
+
+<br>
+
+![02](https://user-images.githubusercontent.com/48495838/83177037-ca9d6b00-a0f4-11ea-94a6-381b4beff313.png)
 
 </div>
 
