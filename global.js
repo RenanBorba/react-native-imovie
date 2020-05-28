@@ -120,6 +120,6 @@ export default styles = StyleSheet.create({
     marginTop: 5,
     color: '#000',
     fontSize: 17,
-    fontWeight: 'bold',
+    fontWeight: 'bold'
   }
 });
