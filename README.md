@@ -14,7 +14,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para a principal interface do aplicativo eMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
+Aplicação Front-end Mobile desenvolvida em React Native para a interface inicial do aplicativo eMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
 
 <br><br>
 
@@ -43,9 +43,27 @@ Aplicação Front-end Mobile desenvolvida em React Native para a principal inter
   <li>npm run start / npm start</li>
 </ul>
 
+<br><br>
+
+## :punch: Como contribuir 
+<ul>
+  <li>Dê um fork nesse repositório</li>
+  <li>Crie a sua branch com a feature</li>
+    <ul>
+      <li>git checkout -b my-feature</li>
+    </ul>
+  <li>Commit a sua contribuição</li>
+    <ul>
+      <li>git commit -m 'feat: My feature'</li>
+    </ul>
+  <li>Push a sua branch</li>
+    <ul>
+      <li>git push origin my-feature</li>
+    </ul>
+</ul>
 <br><br><br>
 
-## :mega: Segue abaixo a principal interface:
+## :mega: Segue abaixo a interface inicial:
 
 <br><br><br>
 
