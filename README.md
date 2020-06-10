@@ -85,7 +85,6 @@ Aplicação Front-end Mobile desenvolvida em React Native para a interface inici
 
 </div>
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
