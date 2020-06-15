@@ -18,6 +18,14 @@ Aplicação Front-end Mobile desenvolvida em React Native para a interface inici
 
 <br><br>
 
+<div align="center">
+
+![emovie](https://user-images.githubusercontent.com/48495838/84701021-931f2300-af2a-11ea-8baa-9457c770d37c.png)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias
 <ul>
   <li>Expo</li>
