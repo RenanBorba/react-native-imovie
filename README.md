@@ -69,7 +69,8 @@ Aplicação Front-end Mobile desenvolvida em React Native para a interface inici
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br><br>
+<br><br>
+<br>
 
 ## :mega: Segue abaixo a interface inicial:
 
