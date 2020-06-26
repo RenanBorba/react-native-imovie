@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-emovie.svg)](https://github.com/RenanBorba/react-native-emovie) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-emovie.svg)](https://github.com/RenanBorba/react-native-emovie) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-emovie.svg)](https://github.com/RenanBorba/react-native-emovie) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-emovie.svg)](https://github.com/RenanBorba/react-native-emovie) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
@@ -93,7 +93,3 @@ Aplicação Front-end Mobile desenvolvida em React Native para a interface inici
 ![02](https://user-images.githubusercontent.com/48495838/83177037-ca9d6b00-a0f4-11ea-94a6-381b4beff313.png)
 
 </div>
-
-<br><br><br>
-
-Renan Borba.
