@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # Projeto - Aplicação eMovie Mobile React Native
 
