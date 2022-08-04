@@ -72,7 +72,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para a interface inici
 <br><br>
 <br>
 
-## :mega: Segue abaixo a interface inicial:
+## :mega: ⬇ Abaixo, a interface inicial:
 
 <br><br><br>
 
