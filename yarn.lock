@@ -1167,10 +1167,36 @@
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.152.tgz#7e7679250adce14e749304cdb570969f77ec997c"
   integrity sha512-Vwf9YF2x1GE3WNeUMjT5bTHa2DqgUo87ocdgTScupY2JclZ5Nn7W2RLM/N0+oreexUk8uaVugR81NnTY/jNNXg==
 
+"@types/prop-types@*":
+  version "15.7.5"
+  resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
+  integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
+
 "@types/qs@^6.5.1":
   version "6.9.3"
   resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.3.tgz#b755a0934564a200d3efdf88546ec93c369abd03"
   integrity sha512-7s9EQWupR1fTc2pSMtXRQ9w9gLOcrJn+h7HOXw4evxyvVqMi4f+q7d2tnFe3ng3SNHjtK+0EzGMGFUQX4/AQRA==
+
+"@types/react-addons-shallow-compare@^0.14.22":
+  version "0.14.22"
+  resolved "https://registry.yarnpkg.com/@types/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.22.tgz#25177d8ab88aedfc2937b434b09b1fcbc9c2eccd"
+  integrity sha512-krgFRorWtbVJLzpJsJD6O27Lew3YHuemVZbL9RFvq8TF1w9DbrHjiiLuIyWIL6AjunBkUrQlErfbUv1TYKiK9w==
+  dependencies:
+    "@types/react" "*"
+
+"@types/react@*":
+  version "18.0.27"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.27.tgz#d9425abe187a00f8a5ec182b010d4fd9da703b71"
+  integrity sha512-3vtRKHgVxu3Jp9t718R9BuzoD4NcQ8YJ5XRzsSKxNDiDonD2MXIT1TmSkenxuCycZJoQT5d2vE8LwWJxBC1gmA==
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/scheduler@*":
+  version "0.16.2"
+  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
+  integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
 "@types/stack-utils@^1.0.1":
   version "1.0.1"
@@ -1994,6 +2020,11 @@ css-in-js-utils@^2.0.0:
   dependencies:
     hyphenate-style-name "^1.0.2"
     isobject "^3.0.1"
+
+csstype@^3.0.2:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
+  integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
 dayjs@^1.8.15:
   version "1.8.27"
@@ -4224,6 +4255,14 @@ range-parser@~1.2.1:
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.1.tgz#3cf37023d199e1c24d1a55b84800c2f3e6468031"
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
+react-addons-shallow-compare@15.6.2:
+  version "15.6.2"
+  resolved "https://registry.yarnpkg.com/react-addons-shallow-compare/-/react-addons-shallow-compare-15.6.2.tgz#198a00b91fc37623db64a28fd17b596ba362702f"
+  integrity sha512-yAV9tOObmKPiohqne1jiMcx6kDjfz7GeL8K9KHgI+HvDsbrRv148uyUzrPc6GwepZnQcJ59Q3lp1ghrkyPwtjg==
+  dependencies:
+    fbjs "^0.8.4"
+    object-assign "^4.1.0"
+
 react-devtools-core@^3.6.3:
   version "3.6.3"
   resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-3.6.3.tgz#977d95b684c6ad28205f0c62e1e12c5f16675814"
@@ -4246,6 +4285,14 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
+
+react-native-snap-carousel@^4.0.0-beta.3:
+  version "4.0.0-beta.6"
+  resolved "https://registry.yarnpkg.com/react-native-snap-carousel/-/react-native-snap-carousel-4.0.0-beta.6.tgz#cc73108f83cbcf227cd1c6367f17926e8451fd01"
+  integrity sha512-jr6Kesrn+/047FwL32JRwAL6/l4Soz2uw73rFM5LfoGTgZhPatUsw60eTE3bznqFewPhoFIKezYe2m3LypTnIA==
+  dependencies:
+    "@types/react-addons-shallow-compare" "^0.14.22"
+    react-addons-shallow-compare "15.6.2"
 
 react-native-view-shot@3.1.2:
   version "3.1.2"
@@ -5027,9 +5074,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 uglify-es@^3.1.9:
   version "3.3.9"
