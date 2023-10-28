@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Projeto - Aplicação eMovie Mobile React Native
+# Projeto - Aplicação iMovie Mobile React Native
 
 </div>
 
@@ -12,13 +12,13 @@
 
 <br>
 
-![logo](https://github.com/RenanBorba/carousel-web/assets/48495838/15b0e1bb-6413-456f-bf3e-4ebe96e16189)
+![logo](https://github.com/RenanBorba/react-native-emovie/assets/48495838/ff4789ab-b593-456a-95e8-1100bc1c12a5)
 
 </div>
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para a interface inicial do aplicativo eMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
+Aplicação Front-end Mobile desenvolvida em React Native para a interface inicial do aplicativo iMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
 
 <br><br>
 
