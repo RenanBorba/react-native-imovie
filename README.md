@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para a interface inicial do aplicativo iMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play.
+Aplicação Front-end Mobile desenvolvida em React Native para a interface inicial do aplicativo iMovie que é voltado para o serviço de streaming de filmes e séries, semelhante com as aplicações famosas como Netflix, Amazon Prime Video, Apple TV, Disney+, Globo Play e Telecine Play. 🍿
 
 <br><br>
 
